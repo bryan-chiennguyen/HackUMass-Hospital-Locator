@@ -9,7 +9,12 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^16.0.0",
     "@rollup/plugin-node-resolve": "^10.0.0",
+<<<<<<< HEAD
     "parcel-bundler": "^1.12.4",
+=======
+    "@rollup/plugin-replace": "^2.3.4",
+    "dotenv": "^8.2.0",
+>>>>>>> e436fba60255b5c15e6a7b639494f57bf0c2e658
     "rollup": "^2.3.4",
     "rollup-plugin-css-only": "^3.1.0",
     "rollup-plugin-livereload": "^2.0.0",

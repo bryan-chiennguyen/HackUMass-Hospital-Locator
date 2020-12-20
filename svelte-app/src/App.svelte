@@ -1,5 +1,6 @@
 <script>
 	import Navbar from './Navbar.svelte';
+<<<<<<< HEAD
 	import Map from './map.svelte'
 	//export let name;
 	export let ready;
@@ -21,6 +22,17 @@
 		<Map/>
 		{ /if } 
 	</div>
+=======
+	import Radar_io from './Radar_io.svelte'
+	export let name;
+</script>
+
+<main>
+	<Navbar/>
+	<Radar_io/>
+	<h1>Hello {name}!</h1>
+	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+>>>>>>> e436fba60255b5c15e6a7b639494f57bf0c2e658
 </main>
 
 <style>
