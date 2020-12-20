@@ -58,7 +58,7 @@ If you want to contribute to our project, please contact us via email.
 
 <a name="license"></a>
 ### License
-Copyright (c) [2020] [University of Massachusetts, Amherst]
+Copyright (c) [2020] [University of Massachusetts, Amherst] (UMass's version of MIT License)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
