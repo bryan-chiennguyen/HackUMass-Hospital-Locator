@@ -1,7 +1,7 @@
 # Hospital Locator
 
 ## Description 
-Our Hospital Locator application tells users the hospitals that are closest to their current location and direct them from their current locations to the hospitals. Directing users to their nearest hospitals will allow patients in emergency situations to get to the hospitals on time. 
+Our Hospital Locator application is a web application that tells users the hospitals that are closest to their current location and direct them from their current locations to the hospitals. Directing users to their nearest hospitals will allow patients in emergency situations to get to the hospitals much faster, which would make sure they get necessary treatment.
 
 ## Table of Contents
 [Installation](#installation)
