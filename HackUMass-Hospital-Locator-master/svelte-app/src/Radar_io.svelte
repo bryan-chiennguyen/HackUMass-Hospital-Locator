@@ -196,7 +196,7 @@ import { select_option } from "svelte/internal";
                     Bike - {med_rec.travel.bike.distance} - {med_rec.travel.bike.time} <br>
                     Car - {med_rec.travel.car.distance} - {med_rec.travel.car.time}
                     </p>
-                  <a href="#" class="btn btn-outline-info" on:click =  {mark_map(med_rec.name, med_rec.position)}>Directions</a>
+                  <a class="btn btn-outline-info" on:click =  {mark_map(med_rec.name, med_rec.position)}>Directions</a>
                 </div>
               </div>
             {/each}
